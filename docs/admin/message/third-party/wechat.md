@@ -1,5 +1,5 @@
 ---
-title: 微信 - CODING 帮助中心
+title: 微信
 pageTitle: 微信
 pagePrevTitle: 每日邮件提醒
 pagePrev: admin/message/daily.html
@@ -27,13 +27,13 @@ pageNext: admin/message/third-party/wecom.html
 
 **公众号二维码：**
 
-<img src="https://help-assets.codehub.cn/enterprise/20210722144933.png" width = "300" height = "300" alt="图片名称" />
+![](https://help-assets.codehub.cn/enterprise/20220704100733.png)
 
 ### [3. 管理通知消息](#3)
 
 点击小程序右下角的「我」→「通知」管理推送设置。
 
-<img src="https://help-assets.codehub.cn/enterprise/20210722121122.png" width = "600" height = "600" alt="图片名称" />
+![](https://help-assets.codehub.cn/enterprise/20220704100746.png)
 
 若你还希望在企业微信中接受通知推送，请点击[阅读详情](/docs/admin/message/third-party/wecom.html)。
 

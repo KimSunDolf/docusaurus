@@ -1,5 +1,5 @@
 ---
-title: 从 TCTP 导入成员 - CODING 帮助中心
+title: 从 TCTP 导入成员
 pageTitle: 通过 TCTP 导入成员
 pagePrevTitle: 通过 LDAP 导入成员
 pagePrev: admin/member/ldap.html

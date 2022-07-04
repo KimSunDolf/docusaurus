@@ -1,5 +1,5 @@
 ---
-title: 日志 - CODING 帮助中心
+title: 日志
 pageTitle: 日志
 pagePrevTitle: 水印设置
 pagePrev: admin/watermark.html
@@ -8,7 +8,7 @@ pageNext: admin/pay/process.html
 alias: admin/enterprise-account/security.html
 ---
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，选择「安全性」→「日志」进入日志管理界面。
+点击团队首页右上角的齿轮图标进入团队设置中心，选择「安全性」→「日志」进入日志管理界面。
 
 ![](https://help-assets.codehub.cn/enterprise/20211009142321.png)
 

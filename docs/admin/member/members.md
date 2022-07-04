@@ -1,5 +1,5 @@
 ---
-title: 管理团队成员 - CODING 帮助中心
+title: 管理团队成员
 pageTitle: 管理团队成员
 pagePrevTitle: 项目管理
 pagePrev: admin/project.html
@@ -8,7 +8,7 @@ pageNext: admin/member/organization.html
 alias: admin/members/team.html
 ---
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「全局设置」->「组织与成员」->「成员管理」中，可根据团队实际情况选择最适合的成员管理方式。
+点击团队首页右上角的齿轮图标进入团队设置中心，点击「全局设置」->「组织与成员」->「成员管理」中，可根据团队实际情况选择最适合的成员管理方式。
 
 ![](https://help-assets.codehub.cn/enterprise/20210929153145.png)
 

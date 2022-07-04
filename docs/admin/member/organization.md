@@ -1,5 +1,5 @@
 ---
-title: 管理组织架构 - CODING 帮助中心
+title: 管理组织架构
 pageTitle: 管理组织架构
 pagePrevTitle: 管理团队成员
 pagePrev: admin/member/members.html
@@ -8,7 +8,7 @@ pageNext: admin/member/members-organization.html
 alias: admin/members/intro.html
 ---
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，「全局设置」->「组织与成员」->「成员管理」中的组织架构功能支持自定义部门/子部门，也支持从[企业微信](/docs/admin/member/wecom.html)、[腾讯云](/docs/admin/member/cloud.html)或 [LDAP](/docs/admin/member/ldap.html) 导入成员/部门数据，满足多样化的团队成员管理需求。
+点击团队首页右上角的齿轮图标进入团队设置中心，「全局设置」->「组织与成员」->「成员管理」中的组织架构功能支持自定义部门/子部门，也支持从[企业微信](/docs/admin/member/wecom.html)、[腾讯云](/docs/admin/member/cloud.html)或 [LDAP](/docs/admin/member/ldap.html) 导入成员/部门数据，满足多样化的团队成员管理需求。
 
 通过不同的应用添加成员之后，能对组织架构执行的操作有所差异。如下表所列，若通过企业微信或 LDAP 导入成员数据，将不能执行任何与部门相关的操作。
 

@@ -1,5 +1,5 @@
 ---
-title: 绑定企业微信 - CODING 帮助中心
+title: 绑定企业微信
 pageTitle: 绑定企业微信
 pagePrevTitle: 绑定腾讯云
 pagePrev: admin/service-integration/cloud.html
@@ -12,7 +12,7 @@ alias: service-integration/wechat-work.html
 
 ### [团队管理员绑定企业微信](#bind)
 
-1.  团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「企业微信」进行服务绑定。
+1.  团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「企业微信」进行服务绑定。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930171456.png)
 

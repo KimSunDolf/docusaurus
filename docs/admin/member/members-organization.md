@@ -1,5 +1,5 @@
 ---
-title: 管理组织架构成员 - CODING 帮助中心
+title: 管理组织架构成员
 pageTitle: 管理组织架构成员
 pagePrevTitle: 管理组织架构
 pagePrev: admin/member/organization.html

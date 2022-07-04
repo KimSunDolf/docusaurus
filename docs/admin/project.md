@@ -1,10 +1,11 @@
 ---
-title: 团队与项目 - CODING 帮助中心
+title: 团队与项目
 pageTitle: 团队与项目
 pagePrevTitle: 团队配置
 pagePrev: admin/team.html
 pageNextTitle: 成员管理——管理团队成员
 pageNext: admin/member/members.html
+sidebar_position: 2
 ---
 
 在 CODING DevOps 平台中，团队可以理解为一个组织，而团队中所创建的项目则是团队成员进行合作与交互的媒介。一个团队中的成员可以自由创建项目或受邀加入其他项目，且团队下创建的所有项目归属于该团队。团队、项目与成员的关系如下图所示。

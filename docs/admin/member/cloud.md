@@ -1,5 +1,5 @@
 ---
-title: 从腾讯云导入成员 - CODING 帮助中心
+title: 从腾讯云导入成员
 pageTitle: 通过腾讯云导入成员
 pagePrevTitle: 通过企业微信导入成员
 pagePrev: admin/member/wecom.html

@@ -1,5 +1,5 @@
 ---
-title: 消息通知 - CODING 帮助中心
+title: 消息通知
 pageTitle: 消息通知
 pagePrevTitle: 服务订购——团队发票管理
 pagePrev: admin/pay/invoice.html

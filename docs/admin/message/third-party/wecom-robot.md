@@ -1,5 +1,5 @@
 ---
-title: 企业微信群机器人 - CODING 帮助中心
+title: 企业微信群机器人
 pageTitle: 企业微信群机器人
 pagePrevTitle: 企业微信
 pagePrev: admin/message/third-party/wecom.html

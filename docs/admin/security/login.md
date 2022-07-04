@@ -1,5 +1,5 @@
 ---
-title: 登录设置 - CODING 帮助中心
+title: 登录设置
 pageTitle: 登录设置
 pagePrevTitle: 访问审计
 pagePrev: admin/access-audit.html
@@ -12,7 +12,7 @@ alias:
 -   settings/global/secure/whitelist.html
 ---
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，依次点击「安全性」→「登录设置」。
+点击团队首页右上角的齿轮图标进入团队设置中心，依次点击「安全性」→「登录设置」。
 
 你可以在登录设置中强制成员开启两步验证、用户登录锁定与设置 IP 白名单。
 
@@ -40,7 +40,7 @@ alias:
 
 ### [IP 白名单设置](#whitelist)
 
-开启 IP 白名单功能后，只有配置在白名单列表内的 IP 地址才被允许访问 CODING 的网页和使用代码仓库。点击页面右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，前往「安全性」→「登录设置」→「高级设置」。
+开启 IP 白名单功能后，只有配置在白名单列表内的 IP 地址才被允许访问 CODING 的网页和使用代码仓库。点击页面右上角的齿轮图标进入团队设置中心，前往「安全性」→「登录设置」→「高级设置」。
 
 ![](https://help-assets.codehub.cn/enterprise/20210928160603.png)
 

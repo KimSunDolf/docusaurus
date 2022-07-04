@@ -1,5 +1,5 @@
 ---
-title: 钉钉机器人 - CODING 帮助中心
+title: 钉钉机器人
 pageTitle: 钉钉机器人
 pagePrevTitle: 企业微信群机器人
 pagePrev: admin/message/third-party/wecom-robot.html

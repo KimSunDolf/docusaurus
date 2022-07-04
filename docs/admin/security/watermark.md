@@ -1,5 +1,5 @@
 ---
-title: 水印设置 - CODING 帮助中心
+title: 水印设置
 pageTitle: 水印设置
 pagePrevTitle: 登录设置
 pagePrev: admin/login.html
@@ -14,7 +14,7 @@ alias: settings/global/secure/watermark.html
 
 为了有效减少内容外泄风险，开启水印功能后，团队成员登录敏感功能页面时将会显示其账号信息。
 
-点击页面右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「安全性」→「水印设置」进入设置界面。
+点击页面右上角的齿轮图标进入团队设置中心，点击「安全性」→「水印设置」进入设置界面。
 
 ![](https://help-assets.codehub.cn/enterprise/20210928154921.png)
 

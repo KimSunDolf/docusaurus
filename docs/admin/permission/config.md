@@ -1,5 +1,5 @@
 ---
-title: 权限配置 - CODING 帮助中心
+title: 权限配置
 pageTitle: 权限配置
 pagePrevTitle: true
 pagePrev: true

@@ -1,5 +1,5 @@
 ---
-title: 绑定 LDAP 指引 - CODING 帮助中心
+title: 绑定 LDAP 指引
 pageTitle: 绑定 LDAP
 pagePrevTitle: 绑定私有 GitLab
 pagePrev: admin/service-integration/gitlab.html
@@ -10,11 +10,11 @@ alias: service-integration/ldap.html
 
 ### [功能介绍](#intro)
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「LDAP」进行服务绑定。完成后可以从系统中导入部门组织和成员信息，并支持成员使用 [LDAP][1] 中的用户名 + 密码登录 CODING。
+点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「LDAP」进行服务绑定。完成后可以从系统中导入部门组织和成员信息，并支持成员使用 [LDAP][1] 中的用户名 + 密码登录 CODING。
 
 ### [绑定 LDAP](#bind)
 
-1.  团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「LDAP」进行服务绑定。
+1.  团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「LDAP」进行服务绑定。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930172455.png)
 

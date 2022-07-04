@@ -1,5 +1,5 @@
 ---
-title: 产品价格调整公告 - CODING 帮助中心
+title: 产品价格调整公告
 pageTitle: 产品价格调整公告
 pagePrevTitle: 安全性——日志
 pagePrev: admin/security-log.html

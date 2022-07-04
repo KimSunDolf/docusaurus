@@ -1,5 +1,5 @@
 ---
-title: 站内通知 - CODING 帮助中心
+title: 站内通知
 pageTitle: 站内通知
 pagePrevTitle: 常见问题
 pagePrev: admin/pay/faq.html

@@ -1,5 +1,5 @@
 ---
-title: 绑定 TCTP - CODING 帮助中心
+title: 绑定 TCTP
 pageTitle: 绑定 TCTP
 pagePrevTitle: 绑定 LDAP
 pagePrev: admin/service-integration/ldap.html
@@ -13,7 +13,7 @@ pageNext: admin/access-audit.html
 
 ### [绑定 TCTP](#bind)
 
-1.  团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「TCTP」进行服务绑定。
+1.  团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「TCTP」进行服务绑定。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930172934.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 访问审计 - CODING 帮助中心
+title: 访问审计
 pageTitle: 访问审计
 pagePrevTitle: 服务集成——绑定 TCTP
 pagePrev: admin/service-integration/tctp.html
@@ -14,7 +14,7 @@ alias:
 
 「访问审计」功能支持自动将部分内容判定为敏感内容，并记录这部分内容的访问日志；同时团队管理者和拥有对应权限的团队成员可以对重要内容再次进行手动标记，例如记录公司重要运营数据的 Wiki 文档、重大项目竞标方案、产品原型图、团队 OKR 等内容，以便于在「敏感内容」列表内进行快速追踪与管理，帮助团队预判可能的信息泄漏来源，及时规避信息泄漏风险，提高团队信息安全等级。
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「安全性」→「访问审计」进入设置界面。
+点击团队首页右上角的齿轮图标进入团队设置中心，点击「安全性」→「访问审计」进入设置界面。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930160001.png)
 

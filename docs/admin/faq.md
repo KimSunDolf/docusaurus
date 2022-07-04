@@ -1,5 +1,5 @@
 ---
-title: 常见问题 - CODING 帮助中心
+title: 常见问题
 pageTitle: 常见问题
 pagePrevTitle: 访问审计
 pagePrev: admin/access-audit.html
@@ -7,11 +7,11 @@ pageNextTitle: 水印设置
 pageNext: admin/watermark.html
 ---
 
-### [如何锁定 / 解锁成员？](#how-to-lock)
+### [如何锁定/解锁成员？](#how-to-lock)
 
 此操作会禁止成员访问团队资源与登录团队。
 
-点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，前往「全局设置」->「组织与成员」->「成员管理」中的团队成员列表，选择需要锁定的用户，点击右侧的 `···` 按钮并选择「锁定成员」。被锁定的用户会有锁定标记，如需解锁，执行「解除成员」操作即可。
+点击团队首页右上角的齿轮图标进入团队设置中心，前往「全局设置」->「组织与成员」->「成员管理」中的团队成员列表，选择需要锁定的用户，点击右侧的 `···` 按钮并选择「锁定成员」。被锁定的用户会有锁定标记，如需解锁，执行「解除成员」操作即可。
 
 ![](https://help-assets.codehub.cn/enterprise/20210719170609.png)
 
@@ -47,7 +47,7 @@ pageNext: admin/watermark.html
 
 ### [如何注销团队？](#logout)
 
-团队负责人点击首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「基本信息」→「注销团队」进入操作页面。
+团队负责人点击首页右上角的齿轮图标进入团队设置中心，点击「基本信息」→「注销团队」进入操作页面。
 
 ![](https://help-assets.codehub.cn/enterprise/20211203153456.png)
 
@@ -55,7 +55,7 @@ pageNext: admin/watermark.html
 
 > 若账号已关联腾讯云账号，则不支持此功能。参考[此文档](/docs/admin/service-integration/cloud.html#unbind)进行解绑。
 
-团队负责人可以点击首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入「设置中心」->「全局设置」->「基本信息」中将团队转让给相应成员。
+团队负责人可以点击首页右上角的齿轮图标 进入「设置中心」->「全局设置」->「基本信息」中将团队转让给相应成员。
 
 ![](https://help-assets.codehub.cn/enterprise/20210929151710.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 绑定私有 GitLab - CODING 帮助中心
+title: 绑定私有 GitLab
 pageTitle: 绑定私有 GitLab
 pagePrevTitle: 绑定企业微信小程序
 pagePrev: admin/service-integration/applets.html
@@ -37,7 +37,7 @@ CODING 支持您关联 GitLab 公有云和私有云等外部仓库，在关联�
 
 ### [2. 绑定 GitLab 私有云](#2)
 
-团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「私有 GitLab」进行服务绑定。
+团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「私有 GitLab」进行服务绑定。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930172249.png)
 

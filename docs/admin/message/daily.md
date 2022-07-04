@@ -1,5 +1,5 @@
 ---
-title: 每日邮件提醒 - CODING 帮助中心
+title: 每日邮件提醒
 pageTitle: 每日邮件提醒
 pagePrevTitle: 站内通知
 pagePrev: admin/message/in-site.html

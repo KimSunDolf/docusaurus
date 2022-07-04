@@ -1,5 +1,5 @@
 ---
-title: 从企业微信导入成员 - CODING 帮助中心
+title: 从企业微信导入成员
 pageTitle: 通过企业微信导入成员
 pagePrevTitle: 管理组织架构成员
 pagePrev: admin/member/members-organization.html

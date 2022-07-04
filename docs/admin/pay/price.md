@@ -1,5 +1,5 @@
 ---
-title: 服务方案与计费 - CODING 帮助中心
+title: 服务方案与计费
 pageTitle: 服务方案与计费
 pagePrevTitle: 安全性——日志
 pagePrev: admin/security-log.html

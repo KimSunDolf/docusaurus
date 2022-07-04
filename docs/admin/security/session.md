@@ -1,5 +1,5 @@
 ---
-title: 会话管理 - CODING 帮助中心
+title: 会话管理
 pageTitle: 会话管理
 pagePrevTitle: 服务集成——绑定 TCTP
 pagePrev: admin/service-integration/tctp.html
@@ -13,7 +13,7 @@ pageNext: admin/login.html
 
 ![](https://help-assets.codehub.cn/enterprise/20211227141741.png)
 
-功能访问路径：点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，前往「安全性」→「会话管理」进入操作页面。
+功能访问路径：点击团队首页右上角的齿轮图标进入团队设置中心，前往「安全性」→「会话管理」进入操作页面。
 
 ![](https://help-assets.codehub.cn/enterprise/20211227143128.png)
 

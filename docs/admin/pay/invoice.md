@@ -1,5 +1,5 @@
 ---
-title: 账单、合同与发票 - CODING 帮助中心
+title: 账单、合同与发票
 pageTitle: 账单、合同与发票
 pagePrevTitle: 服务方案与计费
 pagePrev: admin/pay/price.html
@@ -62,7 +62,7 @@ CODING 服务合同将以线上标准电子合同的形式提供。当团队提�
 
 ### [发票申请](#apply)
 
-1.  团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击进入「服务订购」→「发票管理」。
+1.  团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击进入「服务订购」→「发票管理」。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930173842.png)
 

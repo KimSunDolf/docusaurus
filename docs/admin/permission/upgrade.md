@@ -1,5 +1,5 @@
 ---
-title: 权限管理升级说明 - CODING 帮助中心
+title: 权限管理升级说明
 pageTitle: 权限管理升级说明
 pagePrevTitle: true
 pagePrev: true

@@ -1,5 +1,5 @@
 ---
-title: 企业微信 - CODING 帮助中心
+title: 企业微信
 pageTitle: 企业微信
 pagePrevTitle: 微信
 pagePrev: admin/message/third-party/wechat.html
@@ -13,7 +13,7 @@ pageNext: admin/message/third-party/wecom-robot.html
 
 ### [1. 准备（管理员操作）](#1)
 
-团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「企业微信」进行服务绑定。
+团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「企业微信」进行服务绑定。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930171456.png)
 

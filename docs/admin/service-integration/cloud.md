@@ -1,5 +1,5 @@
 ---
-title: 绑定腾讯云 - CODING 帮助中心
+title: 绑定腾讯云
 pageTitle: 绑定腾讯云
 pagePrevTitle: 权限配置
 pagePrev: admin/permission.html
@@ -11,7 +11,7 @@ pageNext: admin/service-integration/wecom.html
 
 ### [绑定](#bind)
 
-1.  团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击「第三方应用」→「腾讯云」进行服务绑定。
+1.  团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击「第三方应用」→「腾讯云」进行服务绑定。
 
 ![](https://help-assets.codehub.cn/enterprise/20210930165516.png)
 

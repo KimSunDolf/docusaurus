@@ -1,5 +1,5 @@
 ---
-title: 绑定飞书 - CODING 帮助中心
+title: 绑定飞书
 pageTitle: 绑定飞书
 pagePrevTitle: 绑定 TCTP
 pagePrev: admin/service-integration/tctp.html
@@ -27,7 +27,7 @@ sitemap: false
 
 ### [3. 在 CODING 中绑定飞书](#3)
 
-团队管理员点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，点击进入「第三方应用」→「绑定飞书」。
+团队管理员点击团队首页右上角的齿轮图标进入团队设置中心，点击进入「第三方应用」→「绑定飞书」。
 
 ![](https://help-assets.codehub.cn/enterprise/20210927162309.png)
 

@@ -1,8 +1,9 @@
 ---
-title: 团队管理 - CODING 帮助中心
+title: 团队管理
 pageTitle: 团队管理
 pageNextTitle: 项目管理
 pageNext: admin/project.html
+sidebar_position: 1
 alias: 
 -   admin/settings.html
 -   admin/enterprise-account/settings.html
@@ -58,7 +59,7 @@ alias:
 
 ### [设置团队](#setting)
 
-如需对团队信息进行修改，团队管理员/所有者需点击团队首页右上角的的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心。
+如需对团队信息进行修改，团队管理员/所有者需点击团队首页右上角的的齿轮图标进入团队设置中心。
 
 ![](https://help-assets.codehub.cn/enterprise/20210929144851.png)
 
@@ -80,7 +81,7 @@ alias:
 
 仅团队负责人才能够对团队进行实名认证。通过之后才能够进行团队资源的共享，例如文件网盘、Wiki 与知识空间页面。若未进行实名认证，将影响已分享资源的正常访问。
 
-团队负责人点击团队首页右上角的齿轮图标 <img src ="https://help-assets.codehub.cn/enterprise/20210928153255.png" style ="margin:0"> 进入团队设置中心，前往「全局设置」->「团队信息」->「实名认证」，填写姓名与身份证号，填写手机号及验证码，完成确认即可。
+团队负责人点击团队首页右上角的齿轮图标进入团队设置中心，前往「全局设置」->「团队信息」->「实名认证」，填写姓名与身份证号，填写手机号及验证码，完成确认即可。
 
 ![](https://help-assets.codehub.cn/enterprise/20210929150100.png)
 
