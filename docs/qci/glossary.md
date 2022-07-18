@@ -1,11 +1,12 @@
 ---
-title: 词汇表 - CODING 帮助中心
+title: 词汇表
 pageTitle: 词汇表
 pagePrevTitle: 持续集成简介
 pagePrev: qci/intro/ci.html
 pageNextTitle: 快速开始
 pageNext: ci/start.html
 sitemap: false
+sidebar: 9
 ---
 
 持续集成中涉及的几个基本概念示意图如下：  

@@ -1,11 +1,12 @@
 ---
-title: 错误码速查表 - CODING 帮助中心
-pageTitle: 错误码速查表
+title: 常见问题
+pageTitle: 常见问题
 pagePrevTitle: 产品简介
 pagePrev: qci/intro/ci.html
 pageNextTitle: 快速开始
 pageNext: ci/start.html
 sitemap: false
+sidebar: 8
 ---
 
 ### error-1001
